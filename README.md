@@ -1,22 +1,13 @@
-# Hi there, I'm Harinath G👋
+# Harinath — Flutter Developer 👨‍💻
 
-I'm a developer who loves building things with JavaScript, TypeScript, and Node.js.
-I enjoy learning new technologies and contributing to open source.
+I'm a Flutter developer with a degree in Mechanical Engineering and 3+ years of hands-on experience building cross-platform applications. I also have experience with web technologies such as HTML, CSS, JavaScript and Angular. In my current role at Syncfusion, I focus on creating performant, scalable apps using best practices and modern Flutter architectures.
 
-## About me
-- 🔭 I’m currently working on: personal projects and learning advanced TypeScript
-- 🌱 I’m currently learning: cloud-native development and Rust
-- 👯 I’m looking to collaborate on open-source projects
-- ⚡ Fun fact: I love automation and small developer tools
+Skills: Dart • Flutter • Angular • JavaScript • TypeScript • HTML/CSS • Firebase • SQL • Git
 
-## Tech & Tools
-- JavaScript • TypeScript • Node.js • React • Git • Docker
-
-## Connect
+Get in touch
+- GitHub: https://github.com/harinath31
 - Email: your-email@example.com
-- GitHub: [@harinath31](https://github.com/harinath31)
+- LinkedIn: (add your LinkedIn URL)
+- Portfolio: (add your LinkedIn URL)
 
-<!-- You can add dynamic stats or badges below, e.g.: -->
-<!--
-<img src="https://github-readme-stats.vercel.app/api?username=harinath31&show_icons=true&theme=default" alt="Harina's GitHub stats" />
--->
+To show this on your profile: create a public repository named `harinath31` and add this README.md to the repo root on the default branch.
