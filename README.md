@@ -8,7 +8,7 @@ I'm a Flutter developer with a degree 3+ years of experience. I have experience 
 • Dart • Flutter • Angular • JavaScript • TypeScript • HTML • CSS • Blazor • RESTful • API • Git • Agile • Unit Testing • Bloc • SQL • LINQ • Websocket • Firebase (Basic)
 
 ## Get in touch
-- Portfolio: (add your portfolio URL)
+- Portfolio: [Harinath_Portfolio](https://harinath31.github.io/Portfolio/)
 - Email: harinathgunasekaran@gmail.com
 - LinkedIn: [Harinath_LinkedIn](https://www.linkedin.com/in/harinath-g-363295233/)
 - GitHub: [Harinath_Github](https://github.com/harinath31)
